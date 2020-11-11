@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(146, 182, 212);
+}
+
+#navbar{
+    background-color: white;
+    text-align: right;
+    padding: 15px;
+
+}
+
+/*The main part of the form*/
+
+.form{
+    background-color: white;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 300px;
+    margin-left: 800px;
+    margin-right: 800px;
+    padding: 8px;
+}  
+
+
+
+
+
